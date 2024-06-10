@@ -1,3 +1,3 @@
-str1="hello all present here , "
-str2="we welcome you here"
+str1="hello all "
+str2="persent here"
 print(str1+str2)
