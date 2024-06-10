@@ -1,0 +1,15 @@
+'''list1=["hello",3,4]
+list2=[1,2]
+list1=list1+list2
+print(list1)
+print(list1.count("hello"))'''
+'''list1=["hello",2,3]
+list2=list1
+print(list2)'''
+'''tuple1=(1,2,3,"hello","hello")
+print(tuple1[-1:1:-1])
+print(tuple1.count("hello"))'''
+set1={}
+print(set1)
+set2=set()
+print(set2)
