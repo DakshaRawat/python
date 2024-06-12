@@ -1,0 +1,11 @@
+lines = []
+line=input("Enter multiple lines of input (press Enter on an empty line to finish):")
+    
+while True:
+    if line == "":
+        break
+    lines.append(line)
+    
+    print("\nYou entered:")
+    for line in lines:
+        print(line)

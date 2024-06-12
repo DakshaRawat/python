@@ -9,7 +9,10 @@ print(list2)'''
 '''tuple1=(1,2,3,"hello","hello")
 print(tuple1[-1:1:-1])
 print(tuple1.count("hello"))'''
-set1={}
+'''set1={}
 print(set1)
 set2=set()
-print(set2)
+print(set2)'''
+set1=(True,3,4,0,False,0,False)
+print(all(set1))
+print(len(set1))
