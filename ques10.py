@@ -1,3 +1,2 @@
-str1="hello all ,present here"
-str2="hello"
-print(str2 in str1)
+str1="hello all"
+print(str1.upper())
